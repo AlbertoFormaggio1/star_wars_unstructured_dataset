@@ -6,7 +6,7 @@ I'm excited to announce the release of a special dataset containing information 
 This dataset is compiled from text pages on Wikipedia, since I couldn't get permission to use data from Wookieepedia.
 
 <p align="center">
-  <img src="assets/logo_2.png"/ alt="Star Wars logo" width=500px>
+  <img src="assets/logo_2.png"/ alt="Star Wars logo">
 </p>
 
 ## Dataset Introduction
