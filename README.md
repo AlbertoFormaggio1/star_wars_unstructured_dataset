@@ -5,6 +5,10 @@ In a galaxy not so far away, a new data repository has emerged to deepen our und
 I'm excited to announce the release of a special dataset containing information about the planets, characters, movies, and TV series from our beloved Star Wars universe: our **Holocron**.
 This dataset is compiled from text pages on Wikipedia, since I couldn't get permission to use data from Wookieepedia.
 
+<p align="center">
+  <img src="assets/logo.png"/ alt="Star Wars logo" width=500px>
+</p>
+
 ## Dataset Introduction
 
 ### What’s in the Holocron?
