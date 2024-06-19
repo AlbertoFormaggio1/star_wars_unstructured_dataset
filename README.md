@@ -35,3 +35,30 @@ However, keep in mind that the dataset was originally thought for a RAG applicat
 
 ## How to run the code
 
+#### If you want to use the dataset directly
+Simply download and extract the dataset.zip file. You have already access to all the files contained in the dataset.
+
+#### If you want to re-extract the files for updated information
+I have created the file wiki_scrape.py with the goal of extracting all the information in the simplest possible way.
+
+First of all, clone the repository from the terminal window:
+```
+git clone https://github.com/AlbertoFormaggio1/star_wars_unstructured_dataset.git
+```
+
+##### Environment configuration
+To run this code you need very little configuration. From inside the virtual environment you are using (either venv or conda) install BeautifulSoup and Requests:
+```
+pip install requests
+pip install beautifulsoup4
+```
+
+##### Run the code
+Now we can extract our dataset by running the wiki_scrape.py script.
+```
+python wiki_scrape.py
+```
+
+That's it! You can now play with your freshly extracted dataset!
+
+May the force be with you.
