@@ -61,4 +61,4 @@ python wiki_scrape.py
 
 That's it! You can now play with your freshly extracted dataset!
 
-May the force be with you.
+Have a safe journey in this dataset.
